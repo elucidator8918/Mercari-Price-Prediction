@@ -1,7 +1,5 @@
 # Mercari-Price-Prediction
 
-# Mercari-Price-Suggestion
-
 This case study is based on the Kaggle Competition: https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 A Blog discussing about how the problem statement was approached can be found at: 
