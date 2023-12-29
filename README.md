@@ -1,5 +1,7 @@
 # Mercari-Price-Prediction
 
+An explanation of the entirety of the competition can be found in this Medium Article - [Medium Read Link](https://medium.com/@forsomethingnewsid/mercari-price-suggestion-challenge-a-deep-learning-regression-case-study-5353ad1659ab)
+
 This case study is based on the Kaggle Competition: https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 Notebook Contents - 
